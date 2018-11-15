@@ -192,6 +192,9 @@ ex) 하나의 CPU 중심 작업과 다수의 입출력 중심 작업이 존재�
              
  ![SRJF](https://user-images.githubusercontent.com/21725428/48553166-2e4eb180-e91e-11e8-9d97-2c52e454b2ec.PNG)
  
+ Starvation 발생
+ Starvation이란, 프로세스가 끊임없이 필요한 컴퓨터 자원을 가져오지 못하는 상황
+ 
  ▶ 우선 순위 스케쥴링(Priority Scheduling) : 우선 순위가 높은 프로세스에 CPU 할당. 단, 동일한 경우에는 FCFS로 처리
 
    - SJF : 우선 순위 p가 차기 버스트 시간의 예상치 τ의 역수인 경우
