@@ -175,7 +175,7 @@ ex) 하나의 CPU 중심 작업과 다수의 입출력 중심 작업이 존재�
 
            P4                 3
            
-           ![SJF](https://user-images.githubusercontent.com/21725428/48553068-d9ab3680-e91d-11e8-87fe-d29f2ab02418.PNG)
+ ![SJF](https://user-images.githubusercontent.com/21725428/48553068-d9ab3680-e91d-11e8-87fe-d29f2ab02418.PNG)
            
  ▶ 선점 SJF 스케쥴링 : 최소 잔여 시간 우선(Shortest Remaining Time First) 스케쥴링
 
