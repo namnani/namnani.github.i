@@ -22,6 +22,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
+
+
+<h1>
+   CPU 스케쥴링에 대해 알아보기 전에...
+  </h1>
+
+![process](https://user-images.githubusercontent.com/21725428/48548121-892cdc80-e90f-11e8-8eda-1fab0b849adf.PNG)
+
 <b>
   CPU burst time?
 </b>
@@ -33,6 +41,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 </b>
 
 => I/O 요청에 대한 응답을 기다리는 시간
-
-![process](https://user-images.githubusercontent.com/21725428/48548121-892cdc80-e90f-11e8-8eda-1fab0b849adf.PNG)
 
