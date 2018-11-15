@@ -31,11 +31,15 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![process](https://user-images.githubusercontent.com/21725428/48548121-892cdc80-e90f-11e8-8eda-1fab0b849adf.PNG)
 
 ![thread](https://user-images.githubusercontent.com/21725428/48548459-56371880-e910-11e8-80a8-79ca1c79db9f.PNG)
-
+<hr>
+<hr>
 ![process thread](https://user-images.githubusercontent.com/21725428/48548651-d6f61480-e910-11e8-9687-a2868a4ae660.PNG)
 
 <br>
+<h3>
+<b>
 이러한 Thread는 어디에 활용되고 있을까?
+  </h3>
 <br>
 1. 게임 프로그래밍
 <br>
