@@ -211,3 +211,22 @@ ex) 하나의 CPU 중심 작업과 다수의 입출력 중심 작업이 존재�
              P5               5               2
 
 ![Priority Scheduling](https://user-images.githubusercontent.com/21725428/48553361-b1700780-e91e-11e8-9603-e5bedee84fb7.PNG)
+
+▶ 라운드 로빈 스케쥴링(Round-Robin Scheduling) : 원형 준비 상태 큐의 각 프로세스에 일정한 시간량(time quantum) 혹은 시간 할당량(time slice)씩 CPU를 할당하는 선점 알고리즘
+
+   -> 시분할 시스템에서 사용
+
+   - 시간 할당량 이내에 프로세스가 끝나거나 입출력을 요구한 경우 : 프로세스를 큐에서 제거하고 즉시 다음 작업 시작
+
+   - 시간 할당량보다 CPU 버스트 시간이 큰 경우 : 운영체제에 의해 인터럽트되고 중단된 프로세스는 큐의 맨 뒤로 이동함
+
+   ex) 프로세스 , 버스트 시간 (시간량 = 4)
+
+            P1              24
+
+            P2               3
+
+            P3               3
+            
+![round-robin scheduling](https://user-images.githubusercontent.com/21725428/48554346-7d4a1600-e921-11e8-9e1c-5be2dc0f8502.PNG)
+            
