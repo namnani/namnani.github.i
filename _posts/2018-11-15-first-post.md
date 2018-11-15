@@ -210,4 +210,4 @@ ex) 하나의 CPU 중심 작업과 다수의 입출력 중심 작업이 존재�
 
              P5               5               2
 
-![https://user-images.githubusercontent.com/21725428/48553361-b1700780-e91e-11e8-9603-e5bedee84fb7.PNG
+![Priority Scheduling](https://user-images.githubusercontent.com/21725428/48553361-b1700780-e91e-11e8-9603-e5bedee84fb7.PNG)
