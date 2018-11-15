@@ -33,8 +33,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 ![thread](https://user-images.githubusercontent.com/21725428/48548459-56371880-e910-11e8-80a8-79ca1c79db9f.PNG)
 <hr>
 <hr>
-![process thread](https://user-images.githubusercontent.com/21725428/48548651-d6f61480-e910-11e8-9687-a2868a4ae660.PNG)
 
+
+![process thread](https://user-images.githubusercontent.com/21725428/48548651-d6f61480-e910-11e8-9687-a2868a4ae660.PNG)
 <br>
 <h3>
 <b>
