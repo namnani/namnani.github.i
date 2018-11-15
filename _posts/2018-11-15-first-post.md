@@ -34,4 +34,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 => I/O 요청에 대한 응답을 기다리는 시간
 
-<img src="images/process.png">
+![process](https://user-images.githubusercontent.com/21725428/48548121-892cdc80-e90f-11e8-8eda-1fab0b849adf.PNG)
+
