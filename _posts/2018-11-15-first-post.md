@@ -46,6 +46,24 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 1. 게임 프로그래밍
 <br>
 2. 네트워크 프로그래밍
+<hr>
+
+
+다중프로그래밍(Multi-programming)을 위해 CPU 스케쥴링이 중요하다!
+
+![cpu-io burst cycle](https://user-images.githubusercontent.com/21725428/48549513-5684e300-e913-11e8-9b76-d4ef458be3b0.PNG)
+
+<b>
+  CPU가 유휴 상태(idle state)가 될 때마다 운영체제는 준비 큐에 있는 프로세스들(프로세스 제어 블록 : PCB) 중에서 하나를 선택하여 실행
+  </b>
+  
+  <p align="center">
+  여기서 잠깐 PCB(Process Control Block)란?
+  <br>=>특정한 프로세스를 관리할 필요가 있는 정보를 포함하는 운영 체제 커널의 자료 구조이다.
+  ![pcb](https://user-images.githubusercontent.com/21725428/48549872-5d602580-e914-11e8-8fc3-4f6147f0c22e.PNG)
+
+  </p>
+
 
 <br>
 <b>
