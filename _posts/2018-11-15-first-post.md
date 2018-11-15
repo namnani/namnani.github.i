@@ -21,3 +21,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<b>
+  CPU burst time?
+</b>
+=> CPU가 일을 수행하는 시간
+
+<b>
+  I/O burst time
+</b>
+=> I/O 요청에 대한 응답을 기다리는 시간
+
