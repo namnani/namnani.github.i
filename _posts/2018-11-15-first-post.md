@@ -39,6 +39,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 <h3>
 <b>
 이러한 Thread는 어디에 활용되고 있을까?
+  </b>
   </h3>
 <br>
 1. 게임 프로그래밍
