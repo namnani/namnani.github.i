@@ -137,5 +137,56 @@ categories: jekyll update
    각종 스케쥴링 알고리즘(Scheduling Algorithm)
    </h1>
    
+▶ 선입 선처리 스케쥴링(First-Come First-Served; FCFS Scheduling) : CPU를 요구하는 순으로 할당
+
+   - 선입선출(FIFO) 큐로 구현, 제일 간단함
+
+
+
+   ex) 프로세스 , CPU 버스트 시간(msec)
+
+          P1                 24
+
+          P2                  3
+
+          P3                  3   
+   
 ![FCFS](https://user-images.githubusercontent.com/21725428/48552778-0448bf80-e91d-11e8-8476-4b1eba44e405.PNG)
 
+ex) 하나의 CPU 중심 작업과 다수의 입출력 중심 작업이 존재하는 경우
+
+-> Convoy effect : 소요시간이 긴 프로세스가 먼저 도달하여 시간을 잡아먹고 있는 부정적인 현상.
+해결책은? 짧은 것부터 먼저 처리하는 식의 알고리즘으로 가능!
+
+
+▶ 최단 작업 우선 스케쥴링(Shortest-Job-First Scheduling) : CPU 버스트 시간이 가장 작은 프로세스를 선택. 단, 동일할 경우는 선입선출 스케쥴링을 적용
+
+    -> 최적 알고리즘 : 평균 대기 시간을 최소로 함
+
+
+
+   ex) 프로세스 , CPU 버스트 시간
+
+           P1                 6
+
+           P2                 8
+
+           P3                 7
+
+           P4                 3
+           
+           ![SJF](https://user-images.githubusercontent.com/21725428/48553068-d9ab3680-e91d-11e8-87fe-d29f2ab02418.PNG)
+           
+ ▶ 선점 SJF 스케쥴링 : 최소 잔여 시간 우선(Shortest Remaining Time First) 스케쥴링
+
+   - ex) 프로세스 , 도착 시간 , 버스트 시간
+
+             P1             0               8
+
+             P2             1               4
+
+             P3             2               9
+
+             P4             3               5
+             
+             ![SRJF](https://user-images.githubusercontent.com/21725428/48553166-2e4eb180-e91e-11e8-9d97-2c52e454b2ec.PNG)
