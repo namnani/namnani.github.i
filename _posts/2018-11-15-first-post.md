@@ -36,7 +36,9 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 <br>
 이러한 Thread는 어디에 활용되고 있을까?
+<br>
 1. 게임 프로그래밍
+<br>
 2. 네트워크 프로그래밍
 
 <br>
