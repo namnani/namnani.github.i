@@ -25,10 +25,12 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 <b>
   CPU burst time?
 </b>
+
 => CPU가 일을 수행하는 시간
 
 <b>
   I/O burst time
 </b>
+
 => I/O 요청에 대한 응답을 기다리는 시간
 
