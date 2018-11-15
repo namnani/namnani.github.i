@@ -30,6 +30,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ![process](https://user-images.githubusercontent.com/21725428/48548121-892cdc80-e90f-11e8-8eda-1fab0b849adf.PNG)
 
+![thread](https://user-images.githubusercontent.com/21725428/48548459-56371880-e910-11e8-80a8-79ca1c79db9f.PNG)
 <b>
   CPU burst time?
 </b>
