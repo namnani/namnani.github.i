@@ -107,9 +107,13 @@ categories: jekyll update
 
  ▶ 기준
 
+<시스템 입장에서의 효율성 판단 척도>
+
    1) CPU 이용률(Utilization) : CPU 수행 시간 / 시스템 구동 시간 (%) (↑)
 
    2) 처리율(throughput) : 단위 시간당 완료되는 프로세스 수 (↑)
+   
+   <사용자 입장에서의 효율성 판단 척도>
 
    3) 반환 시간(turnaround time) : 프로세스가 시스템에 진입하여 완료되기까지의 시간(↓)
 
@@ -129,5 +133,9 @@ categories: jekyll update
 
     -> 대화식 시스템의 경우 반환 시간보다 적합
 
-
+<h1>
+   각종 스케쥴링 알고리즘(Scheduling Algorithm)
+   </h1>
+   
+![FCFS](https://user-images.githubusercontent.com/21725428/48552778-0448bf80-e91d-11e8-8476-4b1eba44e405.PNG)
 
