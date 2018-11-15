@@ -60,6 +60,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
   <p align="center">
   여기서 잠깐 PCB(Process Control Block)란?
   <br>=>특정한 프로세스를 관리할 필요가 있는 정보를 포함하는 운영 체제 커널의 자료 구조이다.  
+  
   ![pcb](https://user-images.githubusercontent.com/21725428/48549872-5d602580-e914-11e8-8fc3-4f6147f0c22e.PNG)
   </p>
 
