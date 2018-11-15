@@ -64,6 +64,7 @@ categories: jekyll update
    CPU 스케쥴링의 2가지 형태
    </h1>
    <b><li> 선점 스케쥴링(Preemptive Scheduling) : 선점은 한 프로세스가 CPU를 점유하고 있을 때 다른 프로세스가 현재 프로세스를 중지시키고 자신이 CPU를 차지 할 수 있는 방식이다. 우선순위가 높은 프로세스가 먼저 수행 될 때 유리하고, 빠른 응답시간을 요구하는 시분할 시스템에 유용하다. 하지만 선점 때문에 많은 오버헤드를 초래한다.
+   
    ![process state_preemptive](https://user-images.githubusercontent.com/21725428/48551273-6a7f1380-e918-11e8-81d9-2a260457fd57.PNG)
 
    </li>
@@ -71,6 +72,7 @@ categories: jekyll update
    <li>
       비선점 스케쥴링(Non-preemptive Scheduling) : 한 프로세스가 CPU를 할당받으면 다른 프로세스는 할당 받은 프로세스가 작업을 종료할때 까지 CPU를 사용 불가능한 방식이다. 모든 프로세스의 요구를 공정히 처리할 수 있다. 응답시간이 예측 가능하다. 단 짧은 작업이 긴 작업을 기다리는 경우가 발생 할 수 있다.
    </li>
+   
 ![process scheduling](https://user-images.githubusercontent.com/21725428/48551081-cdbc7600-e917-11e8-86f7-f4beecb15aad.PNG)
 
 
