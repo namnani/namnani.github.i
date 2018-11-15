@@ -76,5 +76,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
   I/O burst time
 </b>
 
-=> I/O 요청에 대한 응답을 기다리는 시간
+=> I/O 요청에 대한 응답을 기다리는 시간 
 
