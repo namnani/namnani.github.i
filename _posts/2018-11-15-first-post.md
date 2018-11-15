@@ -189,4 +189,4 @@ ex) 하나의 CPU 중심 작업과 다수의 입출력 중심 작업이 존재�
 
              P4             3               5
              
-             ![SRJF](https://user-images.githubusercontent.com/21725428/48553166-2e4eb180-e91e-11e8-9d97-2c52e454b2ec.PNG)
+ ![SRJF](https://user-images.githubusercontent.com/21725428/48553166-2e4eb180-e91e-11e8-9d97-2c52e454b2ec.PNG)
